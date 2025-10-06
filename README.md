@@ -4,7 +4,7 @@ This repository contains the Final Project (TCC) developed for the MBA in Data S
 
 ## 🎯 Objective
 
-The goal of this project is to compare the predictive performance of three approaches — **Support Vector Machines (SVM)**, **classical Machine Learning models**, and **Deep Learning architectures** — applied to demand forecasting using real operational data from the food industry.
+The goal of this project is to compare the predictive performance of three approaches — **Support Vector Machines (SVM)**, **XGBoost Model**, and **Deep Learning architectures** — applied to demand forecasting using real operational data from the food industry.
 
 ## 🧱 Project Workflow
 
@@ -21,7 +21,7 @@ The project is structured into three main steps:
 3. **Modeling & Evaluation**  
    - Apply and compare multiple algorithms:
      - Support Vector Regression (SVR)
-     - Random Forest, XGBoost
+     - XGBoost
      - Deep Learning (MLP, LSTM)
    - Evaluate performance using metrics:
      - MAE, RMSE, R², MAPE
@@ -65,4 +65,4 @@ tcc-demand-forecasting/
 **Jorge Luiz Fumagalli**  
 MBA in Data Science & Analytics - USP/ESALQ  
 📧 jorgefumagalli@yahoo.com.br  
-🔗 [LinkedIn](https://www.linkedin.com/in/jorgefumagalli/)
+🔗 [LinkedIn]((https://www.linkedin.com/in/jorge-fumagalli-bb8975121/))
